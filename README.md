@@ -1,2 +1,2 @@
-# kadai35
-https://noyon1.github.io/kadai35/
+# kad35
+https://noyon1.github.io/kad35/
